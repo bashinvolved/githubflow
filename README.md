@@ -1,2 +1,0 @@
-# gitflow
-### yandex lyceum classwork
